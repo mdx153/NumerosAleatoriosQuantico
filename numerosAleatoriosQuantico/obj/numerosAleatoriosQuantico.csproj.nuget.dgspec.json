@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projetos para github\\numerosAleatoriosQuantico\\numerosAleatoriosQuantico\\numerosAleatoriosQuantico.csproj": {}
+  },
+  "projects": {
+    "D:\\projetos para github\\numerosAleatoriosQuantico\\numerosAleatoriosQuantico\\numerosAleatoriosQuantico.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projetos para github\\numerosAleatoriosQuantico\\numerosAleatoriosQuantico\\numerosAleatoriosQuantico.csproj",
+        "projectName": "numerosAleatoriosQuantico",
+        "projectPath": "D:\\projetos para github\\numerosAleatoriosQuantico\\numerosAleatoriosQuantico\\numerosAleatoriosQuantico.csproj",
+        "packagesPath": "C:\\Users\\Maycon Douglas\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos para github\\numerosAleatoriosQuantico\\numerosAleatoriosQuantico\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Maycon Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Quantum.CSharpGeneration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[0.19.2109165653, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.EntryPointDriver": {
+              "target": "Package",
+              "version": "[0.19.2109165653, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.QSharp.Core": {
+              "target": "Package",
+              "version": "[0.19.2109165653, )"
+            },
+            "Microsoft.Quantum.Runtime.Core": {
+              "target": "Package",
+              "version": "[0.19.2109165653, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Quantum.Standard": {
+              "target": "Package",
+              "version": "[0.19.2109165653, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

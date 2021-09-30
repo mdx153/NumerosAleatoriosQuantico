@@ -1,4 +1,4 @@
-Ferramentas obrigatoria:
+Ferramentas obrigatória:
 
 *Visual Studio Code.
 
